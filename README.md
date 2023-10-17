@@ -77,14 +77,13 @@ About Me
 Projects
 --------
 
--   [Hostel Management System](https://github.com/Pretheeba-U/Hostelmanagement) - A comprehensive web application for managing hostel facilities and student records. It includes features like room allocation, mess management, and student attendance tracking.
+-   [Hostel Management System](https://github.com/Pretheeba-U/HostelManagementSystem) - A comprehensive web application for managing hostel facilities and student records. It includes features like room allocation, mess management, and student attendance tracking.
 
 
 # GitHub Statistics
-
-![image](https://github.com/Pretheeba-U/Pretheeba/assets/131645572/f32f8990-6801-48d4-8fee-88116ba94f03)
-![image](https://github.com/Pretheeba-U/Pretheeba/assets/131645572/9b97bf4b-a0e6-44b5-8c8a-ac069b1c47dc)
-![image](https://github.com/Pretheeba-U/Pretheeba/assets/131645572/ffecf803-3d6f-4994-b67e-d444c5b9b211)
+![Pretheeba-U's Stats](https://github-readme-stats.vercel.app/api?username=Pretheeba-U&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Pretheeba-U's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pretheeba-U&theme=highcontrast&hide_border=false)
+![Pretheeba-U's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pretheeba-U&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 Contact Me
